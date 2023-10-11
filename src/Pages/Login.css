@@ -1,0 +1,17 @@
+.form {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+}
+
+.signInButton {
+  width: -webkit-fill-available;
+}
